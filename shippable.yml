@@ -1,5 +1,5 @@
 language: ruby
-build_image: drydock/u12pls:tip
+build_image: drydock/u12rubpls:tip
 ruby:
   - 2.0.0
   - 1.8.7
